@@ -1,0 +1,11 @@
+.error{
+    color:red
+}
+.form-control{
+    margin-bottom: 20px;
+}
+input{
+    color:#ccc;
+    line-height: 1.4;
+    
+}
